@@ -1,9 +1,30 @@
 /*this is css file */
-h1 {
-
+.search-button {
+ display: flex;
+ padding: center;
+ margin: center;
 }
 
 li {
  display: flex;
- background-color: red;
+ padding: 2px;
+ margin-left: 1250px;
+ background-color: #0099ff36;
+}
+
+.btn-main-sect {
+    display: flex;
+    margin: center;
+    margin-top: 7px;
+    
+}
+.main-sect  {
+    display: grid;
+    padding: 45px;
+    margin-right: 300px;
+    margin-left: 3rem;
+  
+}
+footer {
+    margin-top: 200px;
 }
